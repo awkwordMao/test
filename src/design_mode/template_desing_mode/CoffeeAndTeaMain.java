@@ -6,5 +6,6 @@ public class CoffeeAndTeaMain {
         CoffeeAndTea tea = new Tea();
         coffee.doIt();
         tea.doIt();
+        System.out.println(2/5);
     }
 }
